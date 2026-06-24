@@ -1,7 +1,7 @@
 # 🚀 Client Portal Vossa4Tefa - React Edition
 
 Sebuah client portal modern, canggih, dan responsive yang dibangun dengan **React + Vite + Tailwind CSS + Firebase** untuk memberikan akses kepada klien dalam melihat data sekolah, laporan, dan informasi relevan lainnya.
-
+fdfffdf
 ## ✨ Fitur Utama
 
 ### 🎨 Modern UI/UX
